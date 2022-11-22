@@ -7,8 +7,4 @@ BREAKING CHANGE: `extends` key in config file is now used for extending other co
 
 Im in a session
 
-
-
-
-
-Edson
+John
